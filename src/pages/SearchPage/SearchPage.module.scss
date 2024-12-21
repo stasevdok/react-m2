@@ -1,0 +1,22 @@
+.form {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+    align-items: flex-end;
+  }
+  
+  .search-results {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    width: 500px;
+    transition: 0.3s;
+    list-style-type: none;
+    &.active {
+      margin: 20px auto;
+      padding: 20px;
+    }
+  }
+  

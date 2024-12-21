@@ -1,0 +1,17 @@
+.tabs {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    gap: 20px;
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+}
+
+.active {
+    opacity: 1;
+}
+
+.NavLink {
+    opacity: 0.8;
+}

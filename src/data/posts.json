@@ -1,0 +1,184 @@
+[
+  {
+    "id": "1",
+    "title": "Уникальная уличная инсталляция в центре города",
+    "description": "В самом центре города установлена новая инсталляция, которая привлекает внимание не только своей оригинальностью, но и важным посланием о проблемах экологии.",
+    "date": "2024-12-02",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxcO49UQV6JQwU1wktsC2WuvelwcFsyLlHBg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSukXtL2Ga4cIWEdzq42VWDtmfv7cnpU69O9Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4gS0b-CPb1fAsFOWURGwmF_jLBxVgdfrz2g&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJQuA2nPf4bF7LHIT6B7qeYI5PrMCIgl_wqg&s"
+    ],
+    "category": "1",
+    "text": "Это уникальное произведение уличного искусства было создано с использованием переработанных материалов. Оно символизирует наше стремление к устойчивому будущему и напоминает о важности экологии."
+  },
+  {
+    "id": "2",
+    "title": "Граффити, которое перевернёт представление о стрит-арте",
+    "description": "Собрали самые яркие и необычные граффити, которые будут интересны как новичкам, так и опытным ценителям стрит-арта.",
+    "date": "2024-12-09",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCCS7EYGyGMdL52Th7xBgeYmXA_jiIBVFvfw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh8Gba3TfVE7vL1xL1r-TjAQ13SZ5CcYNZgA&s",
+      "https://i.pinimg.com/236x/b2/1c/61/b21c6182e515764220f5ffd459918234.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4gS0b-CPb1fAsFOWURGwmF_jLBxVgdfrz2g&s"
+    ],
+    "category": "2",
+    "text": "В этой подборке мы собрали самые неожиданные и экспрессивные граффити, которые покоряют воображение и вызывают вопросы у зрителей."
+  },
+  {
+    "id": "3",
+    "title": "Поиск стрит-арта в живописном районе города",
+    "description": "Прогулка по живописным улицам и уголкам города, где можно найти удивительные и яркие арт-объекты, раскрывающие творчество местных художников.",
+    "date": "2024-12-11",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZPRo5ILl4Tew10m2HkWjfk8vgdhNwdxzvbw&s",
+      "https://images.stockcake.com/public/e/3/c/e3c3746a-adad-4954-8f86-d321740fa19e_medium/bengal-cat-resting-stockcake.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJQuA2nPf4bF7LHIT6B7qeYI5PrMCIgl_wqg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh8Gba3TfVE7vL1xL1r-TjAQ13SZ5CcYNZgA&s"
+    ],
+    "category": "3",
+    "text": "Присоединяйтесь к нашему туру по району 'Зелёный квартал', где стрит-арт гармонично сочетается с природной красотой. Мы расскажем о самых интересных и ярких арт-объектах, укрытых в этом районе."
+  },
+  {
+    "id": "4",
+    "title": "История создания граффити 'Связь времён'",
+    "description": "Автор одного из самых известных граффити в городе делится историей своего проекта, который стал настоящим символом единства разных эпох.",
+    "date": "2024-12-20",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRruukru6xmoSHM0QDEp1kRWUJ1NKlADWEksw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSukXtL2Ga4cIWEdzq42VWDtmfv7cnpU69O9Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxcO49UQV6JQwU1wktsC2WuvelwcFsyLlHBg&s",
+      "https://i.pinimg.com/236x/b2/1c/61/b21c6182e515764220f5ffd459918234.jpg"
+    ],
+    "category": "3",
+    "text": "В интервью художник рассказывает, как ему удалось создать такое произведение, которое сочетает современные тренды и элементы культурного наследия."
+  },
+  {
+    "id": "5",
+    "title": "Эко-арт: инсталляция из переработанных материалов",
+    "description": "Внимание к вопросам экологии привлекает новая инсталляция, выполненная из переработанных материалов. Этот арт-объект — настоящее произведение искусства, призывающее задуматься о будущем нашей планеты.",
+    "date": "2024-12-03",
+    "photos": [
+      "https://images.stockcake.com/public/e/3/c/e3c3746a-adad-4954-8f86-d321740fa19e_medium/bengal-cat-resting-stockcake.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRruukru6xmoSHM0QDEp1kRWUJ1NKlADWEksw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh8Gba3TfVE7vL1xL1r-TjAQ13SZ5CcYNZgA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxcO49UQV6JQwU1wktsC2WuvelwcFsyLlHBg&s"
+    ],
+    "category": "1",
+    "text": "Инсталляция сделана полностью из переработанных материалов, что поднимает вопросы экологии и устойчивого развития. Это не просто арт-объект, а целая концепция, которая вдохновляет на действия."
+  },
+  {
+    "id": "6",
+    "title": "Граффити 'Городская гармония': новое прочтение стрит-арта",
+    "description": "В центре города появился новый объект, который сочетает уличное искусство и городскую атмосферу в одно целое.",
+    "date": "2024-12-01",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxcO49UQV6JQwU1wktsC2WuvelwcFsyLlHBg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSukXtL2Ga4cIWEdzq42VWDtmfv7cnpU69O9Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4gS0b-CPb1fAsFOWURGwmF_jLBxVgdfrz2g&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJQuA2nPf4bF7LHIT6B7qeYI5PrMCIgl_wqg&s"
+    ],
+    "category": "1",
+    "text": "Это граффити объединяет элементы традиционного искусства и современных технологий, создавая уникальную атмосферу в центре города."
+  },
+  {
+    "id": "7",
+    "title": "Лучшие граффити месяца: декабрь 2024",
+    "description": "В декабре в городе появилось множество ярких граффити, и мы собрали лучшие из них для вас.",
+    "date": "2024-12-10",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCCS7EYGyGMdL52Th7xBgeYmXA_jiIBVFvfw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh8Gba3TfVE7vL1xL1r-TjAQ13SZ5CcYNZgA&s",
+      "https://i.pinimg.com/236x/b2/1c/61/b21c6182e515764220f5ffd459918234.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4gS0b-CPb1fAsFOWURGwmF_jLBxVgdfrz2g&s"
+    ],
+    "category": "2",
+    "text": "Собрали для вас самые яркие работы стрит-арта, которые потрясли зрителей в декабре. Эти граффити не только радуют глаз, но и заставляют задуматься."
+  },
+  {
+    "id": "8",
+    "title": "Фестиваль уличного искусства: яркие работы и вдохновляющие идеи",
+    "description": "В этом году фестиваль стрит-арта удивил зрителей множеством оригинальных и захватывающих проектов. Мы подготовили обзор самых ярких работ.",
+    "date": "2024-12-18",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh8Gba3TfVE7vL1xL1r-TjAQ13SZ5CcYNZgA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxcO49UQV6JQwU1wktsC2WuvelwcFsyLlHBg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4gS0b-CPb1fAsFOWURGwmF_jLBxVgdfrz2g&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRruukru6xmoSHM0QDEp1kRWUJ1NKlADWEksw&s"
+    ],
+    "category": "2",
+    "text": "Фестиваль стал настоящим центром притяжения для художников и зрителей, а также местом, где родились идеи, которые определят будущее стрит-арта."
+  },
+  {
+    "id": "9",
+    "title": "Граффити в стиле поп-арт: новые тенденции в уличном искусстве",
+    "description": "Поп-арт продолжает завоевывать улицы города. Мы представляем работы, которые вдохновлены этим стилем и отражают актуальные социальные темы.",
+    "date": "2024-12-05",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZPRo5ILl4Tew10m2HkWjfk8vgdhNwdxzvbw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCCS7EYGyGMdL52Th7xBgeYmXA_jiIBVFvfw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSukXtL2Ga4cIWEdzq42VWDtmfv7cnpU69O9Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh8Gba3TfVE7vL1xL1r-TjAQ13SZ5CcYNZgA&s"
+    ],
+    "category": "1",
+    "text": "Этот стиль воплощает яркость и динамичность, привлекая внимание зрителей к социальной проблематике через смелые цветовые решения и комиксовые элементы."
+  },
+  {
+    "id": "10",
+    "title": "Граффити с элементами виртуальной реальности: искусство будущего",
+    "description": "В ближайшее время уличное искусство может стать еще более интерактивным. Мы исследуем, как граффити и виртуальная реальность могут стать неразделимыми.",
+    "date": "2024-12-07",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh8Gba3TfVE7vL1xL1r-TjAQ13SZ5CcYNZgA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRruukru6xmoSHM0QDEp1kRWUJ1NKlADWEksw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4gS0b-CPb1fAsFOWURGwmF_jLBxVgdfrz2g&s",
+      "https://i.pinimg.com/236x/b2/1c/61/b21c6182e515764220f5ffd459918234.jpg"
+    ],
+    "category": "1",
+    "text": "Эти новые работы, в которых используются элементы виртуальной реальности, позволяют зрителям взаимодействовать с граффити, создавая уникальный опыт."
+  },
+  {
+    "id": "11",
+    "title": "Флешмоб граффитистов: уличное искусство на разных уровнях",
+    "description": "Как граффитисты по всему миру создают совместные произведения искусства, вовлекая людей из разных слоев общества в процесс.",
+    "date": "2024-12-12",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxcO49UQV6JQwU1wktsC2WuvelwcFsyLlHBg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh8Gba3TfVE7vL1xL1r-TjAQ13SZ5CcYNZgA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4gS0b-CPb1fAsFOWURGwmF_jLBxVgdfrz2g&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRruukru6xmoSHM0QDEp1kRWUJ1NKlADWEksw&s"
+    ],
+    "category": "2",
+    "text": "Граффитисты со всего мира объединяются, чтобы создать искусство, которое выражает единство и силу сообщества."
+  },
+  {
+    "id": "12",
+    "title": "Секреты мастерства: как создать идеальное граффити",
+    "description": "Погружаемся в мир граффити и раскрываем секреты профессионалов, которые используют различные техники и стили для создания своих произведений.",
+    "date": "2024-12-13",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxcO49UQV6JQwU1wktsC2WuvelwcFsyLlHBg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRruukru6xmoSHM0QDEp1kRWUJ1NKlADWEksw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh8Gba3TfVE7vL1xL1r-TjAQ13SZ5CcYNZgA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSukXtL2Ga4cIWEdzq42VWDtmfv7cnpU69O9Q&s"
+    ],
+    "category": "3",
+    "text": "Этот пост раскрывает техники и секреты граффитистов, от выбора материалов до планирования композиции. Узнайте, как стать мастером стрит-арта!"
+  },
+  {
+    "id": "13",
+    "title": "Граффити как способ протестного выражения",
+    "description": "Граффити давно стало не только искусством, но и способом выразить протест. Обзор самых известных граффити, созданных в ответ на общественные события.",
+    "date": "2024-12-14",
+    "photos": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCCS7EYGyGMdL52Th7xBgeYmXA_jiIBVFvfw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh8Gba3TfVE7vL1xL1r-TjAQ13SZ5CcYNZgA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4gS0b-CPb1fAsFOWURGwmF_jLBxVgdfrz2g&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZPRo5ILl4Tew10m2HkWjfk8vgdhNwdxzvbw&s"
+    ],
+    "category": "1",
+    "text": "Этот пост демонстрирует, как граффити стало не только выражением творчества, но и способом выразить политический или социальный протест."
+  }
+]
