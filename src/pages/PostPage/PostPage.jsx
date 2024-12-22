@@ -15,13 +15,11 @@ import { Helmet } from "react-helmet-async";
 const PostPage = () => {
   const { id } = useParams();
 
-  // Вызов всех хуков
   const progressRef = useRef(null);
   const viewportHeight = useViewportHeight();
   const pageHeight = usePageHeight();
   const scrollY = useScrollY();
 
-  // Поиск поста
   const post = postsDB.find((post) => post.id === id);
 
   const calculateProgress = () => {
@@ -35,7 +33,6 @@ const PostPage = () => {
 
   const throttleCalculateProgress = throttle(calculateProgress, 50);
 
-  // Эффект работает безусловно, вне зависимости от наличия поста
   useEffect(() => {
     window.addEventListener('scroll', throttleCalculateProgress);
     window.addEventListener('resize', throttleCalculateProgress);
@@ -46,7 +43,6 @@ const PostPage = () => {
     };
   }, [viewportHeight, pageHeight, scrollY, throttleCalculateProgress]);
 
-  // Рендеринг
   if (!post) {
     return <ErrorPage />;
   }
