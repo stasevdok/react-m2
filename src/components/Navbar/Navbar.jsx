@@ -7,7 +7,6 @@ export default function Navbar() {
             <div className="tab"><NavLink exact to="/">Публикации</NavLink></div>
             <div className="tab"><NavLink to="/search">Поиск</NavLink></div>
             <div className="tab"><NavLink to="/profile">Профиль</NavLink></div>
-            <div className="tab"><NavLink to="/admin">Админка</NavLink></div>
         </div>
     );
 }
