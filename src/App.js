@@ -1,14 +1,15 @@
 import './App.css';
-import { createHashRouter, RouterProvider } from 'react-router-dom';
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import MainPage from '@/pages/MainPage/MainPage';
 import ProfilePage from '@/pages/Profile/Profile';
 import PostPage from '@/pages/PostPage/PostPage';
 import SearchPage from '@/pages/SearchPage/SearchPage';
 import ErrorPage from '@/pages/ErrorPage/ErrorPage';
+import StyleGuide from '@/pages/StyleGuide/StyleGuide'
 import Layout from '@/components/Layout';
 import { HelmetProvider } from 'react-helmet-async';
 
-const router = createHashRouter([
+const router = createBrowserRouter([
   {
     path: "/",
     element: <Layout />, 
@@ -28,6 +29,10 @@ const router = createHashRouter([
       { 
         path: "/post/:id", 
         element: <PostPage /> 
+      },
+      { 
+        path: "/styleguide", 
+        element: <StyleGuide /> 
       },
       { 
         path: "*", 
