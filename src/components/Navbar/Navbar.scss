@@ -1,17 +1,67 @@
 .tabs {
     position: fixed;
-    bottom: 20px;
+    top: 20px;
     left: 20px;
     gap: 20px;
     display: flex;
     flex-direction: row;
-    background-color: #fff;
+    align-items: center;
+    width: 100%;
+
+}
+
+.tab {
+    color: rgba(32, 32, 32, 0.80);
+    text-align: center;
+    font-family: "Object Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
 
 .active {
-    opacity: 1;
+    color: #202020;
 }
 
 .NavLink {
     opacity: 0.8;
+}
+
+.button {
+    display: flex;
+    padding: 12px 24px;
+    gap: 8px;
+    background: #202020;
+    color: #FFF;
+    text-align: center;
+    font-family: "Object Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.5px;
+    flex-direction: row;
+    align-items: center;
+    position: absolute;
+    right: 40px;
+}
+
+.button-icon {
+    position: relative; /* Убери bottom: 0 */
+    width: 20px; /* Укажи размер */
+    height: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #202020;
+}
+
+.button a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #FFF;
+    gap: 4px;
 }

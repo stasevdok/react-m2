@@ -1,6 +1,8 @@
 import React, { useEffect, useRef } from 'react';
-import { Link } from 'react-router-dom'; 
+import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
 import { localeDateString } from '@/utils/localeDateString'; 
+import '@/components/Post/Post.scss';
 
 const Post = React.forwardRef(({ id, title, category, date, photos, categories }, ref) => {
   const imageRef = useRef(null);
@@ -16,10 +18,21 @@ const Post = React.forwardRef(({ id, title, category, date, photos, categories }
 
   return (
     <Link to={`/post/${id}`} className="post-link">
-      <div className="post" ref={ref}>
-        <h2>{title}</h2>
+      <motion.div
+        className="post"
+        ref={ref}
+        whileHover={{ scale: 1.05}} // Анимация при наведении
+        transition={{ type: 'spring', stiffness: 300 }}
+      >
+        <motion.p
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 0.2 }}
+        >
+          <h2>{title}</h2>
+        </motion.p>
         {photos && photos.length > 0 && (
-          <img 
+          <motion.img
             ref={imageRef}
             className="lazyload" 
             src="placeholder.jpg"
@@ -27,11 +40,26 @@ const Post = React.forwardRef(({ id, title, category, date, photos, categories }
             width={400}
             height={400}
             alt={title}
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.4, duration: 1 }}
           />
         )}
-        <p>{categoryName}</p>
-        <time dateTime={date}>{localeDateString(date)}</time>
-      </div>
+        <motion.p
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 0.6 }}
+        >
+          <p>{categoryName}</p>
+        </motion.p>
+        <motion.p
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 0.8 }}
+        >
+          <p><time dateTime={date}>{localeDateString(date)}</time></p>
+        </motion.p>
+      </motion.div>
     </Link>
   );
 });

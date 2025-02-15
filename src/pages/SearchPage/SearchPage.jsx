@@ -27,7 +27,7 @@ const SearchPage = () => {
         );
         const listItems = result.reduce(
           (markup, item) =>
-            `${markup}<li><a href="#/post/${item.id}">${item.title}</a></li>`,
+            `${markup}<li><a href="/post/${item.id}">${item.title}</a></li>`,
           ""
         );
         setSearchResults(listItems);
