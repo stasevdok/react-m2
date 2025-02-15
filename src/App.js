@@ -8,6 +8,7 @@ import ErrorPage from '@/pages/ErrorPage/ErrorPage';
 import StyleGuide from '@/pages/StyleGuide/StyleGuide'
 import Layout from '@/components/Layout';
 import { HelmetProvider } from 'react-helmet-async';
+import '@/styles/global.scss';
 
 const router = createBrowserRouter([
   {

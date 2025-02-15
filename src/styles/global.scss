@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Object Sans';
+    src: url('~@/assets/fonts/ObjectSansRegular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Object Sans';
+    src: url('~@/assets/fonts/ObjectSansHeavy.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  body {
+    font-family: 'Object Sans', sans-serif;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
